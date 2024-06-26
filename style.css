@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+   
+}
+.Encrypt{
+    border: 5px solid orange;
+    box-shadow: 0 4px 5px black;
+    max-width: 80%;
+    padding: 40px 30px;
+    border-radius: 5px;
+  margin: 10px 100px auto;
+    
+   
+    
+}
+.items{
+    display: flex;
+    align-items: center;
+}
+#encryption{
+    border: 3px solid orange;
+    margin-left: 100px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+#text{
+    border: 3px solid orange;
+    margin-right: 40px;
+    padding: 10px 20px;
+    border-radius: 5px ;
+    
+}
+#encryption{
+    margin-left: 40px;
+}
+#Encryptbtn{
+    padding: 6px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    border: none;
+    margin-left: 4px;
+    background-color: orange;
+}
+.Decrypt{
+    border: 5px solid orange;
+    box-shadow: 0 4px 5px black;
+    max-width: 80%;
+    padding: 40px 30px;
+    border-radius: 5px;
+    margin: 10px 100px auto;
+}
+.items2{
+    display: flex;
+    align-items: center; 
+}
+#text2{
+    border: 3px solid orange;
+    margin-right: 40px;
+    padding: 10px 20px;
+    border-radius: 5px ;
+     
+}
+.Decryptbtn{
+    padding: 6px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    border: none;
+    margin-left: 4px;
+    background-color: orange; 
+}
+#decryption{
+    border: 3px solid orange;
+    margin-left: 100px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
