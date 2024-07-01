@@ -23,13 +23,13 @@ body{
     display: flex;
     align-items: center;
 }
-#encryption{
+#encryptionShift{
     border: 3px solid orange;
     margin-left: 100px;
     border-radius: 5px;
     padding: 10px 20px;
 }
-#text{
+#encryptText{
     border: 3px solid orange;
     margin-right: 40px;
     padding: 10px 20px;
@@ -60,7 +60,7 @@ body{
     display: flex;
     align-items: center; 
 }
-#text2{
+#decryptText{
     border: 3px solid orange;
     margin-right: 40px;
     padding: 10px 20px;
@@ -76,7 +76,7 @@ body{
     margin-left: 4px;
     background-color: orange; 
 }
-#decryption{
+#decryptionShift{
     border: 3px solid orange;
     margin-left: 100px;
     border-radius: 5px;
